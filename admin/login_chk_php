@@ -1,0 +1,7 @@
+<?php
+    $user_name = isset($_POST['user_name']) ? $_POST['user_name'] : "";
+    $pass_word = isset($_POST['pass_word']) ? $_POST['pass_word'] : "";
+    $mail_addres = isset($_POST['mail_address']) ? $_POST['mail_address'] : "";
+    $pass_word = isset($_POST['pass_word']) ? $_POST['pass_word'] : "";
+
+?>
